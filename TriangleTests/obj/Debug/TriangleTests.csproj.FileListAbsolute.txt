@@ -1,0 +1,7 @@
+D:\code\Triangle\TriangleTests\bin\Debug\TriangleTests.dll
+D:\code\Triangle\TriangleTests\bin\Debug\TriangleTests.pdb
+D:\code\Triangle\TriangleTests\bin\Debug\Triangle.dll
+D:\code\Triangle\TriangleTests\bin\Debug\Triangle.pdb
+D:\code\Triangle\TriangleTests\obj\Debug\TriangleTests.csprojResolveAssemblyReference.cache
+D:\code\Triangle\TriangleTests\obj\Debug\TriangleTests.dll
+D:\code\Triangle\TriangleTests\obj\Debug\TriangleTests.pdb
